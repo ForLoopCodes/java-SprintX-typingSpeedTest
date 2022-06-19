@@ -17,13 +17,21 @@
 ```
 
 ## Features:
-- Light-Weight.
-- Command-line.
-- Ease of use.
-- Stats:
-  1. Words per minute calculation.
-  2. Words per second calculation.
-  3. Time taken to type
+1. Light-Weight.
+2. Command-line.
+3. Ease of use.
+4. Stats:
+   - Words per minute calculation.
+   - Words per second calculation.
+   - Time taken to type
+
+## How to run?
+1. Download and install java jdk on your pc.
+2. Open the destination folder after downloading this.
+3. In the explorer searchbar, type ```cmd```
+4. In the wondow that opens, do ```javac SpirntX.java```
+5. Then ```java SpirntX.java```
+6. and done!
 
 ## Screenshots:
 ![image](https://user-images.githubusercontent.com/89027512/174470904-8f592e46-7665-4b9c-b800-b41a0d8ddecb.png)
